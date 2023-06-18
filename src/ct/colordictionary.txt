@@ -1,0 +1,17 @@
+orange : #ff7f24
+mint : #8eb398
+red : #cc3333
+yellow : #e4c514
+pink : #ef9ed2
+cyan : #51ADD5
+lime : #74ee15
+green : #00FF00
+magenta : #f923b3
+blue : #0563C1
+blue2 : #0091ff
+red2 : #ff0090
+green2 : #91ff00
+teal : #00e5e5
+grass : #66df48
+pink2 : #ff9191
+red3 : #ff2f8e
